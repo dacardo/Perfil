@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">Perfil De Hacker</title>
+<generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="/feed.xml" />
+<link rel="alternate" type="text/html" href="" />
+<updated>2014-12-01T00:27:55-05:00</updated>
+<id>/</id>
+<author>
+  <name>David Ricardo Trompa Muñoz</name>
+  <uri>/</uri>
+  <email>drtrompam@unal.edu.co</email>
+</author>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Pasatiempos]]></title>
+  <link rel="alternate" type="text/html" href="/articles/mis-pasatiempos/" />
+  <id>/articles/mis-pasatiempos</id>
+  <published>2014-06-22T00:00:00-05:00</published>
+  <updated>2014-06-22T00:00:00-05:00</updated>
+  <author>
+    <name>David Ricardo Trompa Muñoz</name>
+    <uri></uri>
+    <email>drtrompam@unal.edu.co</email>
+  </author>
+  <content type="html">&lt;p&gt;Tengo una pequeña coleccion de cubos rubik y en mis tiempo libres me gusta armarlos para mejorar mi velocidad al momento de resolverlo.&lt;/p&gt;
+
+&lt;figure&gt; &lt;center&gt;
+	&lt;img src=&quot;https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t35.0-12/10712548_10152635668643401_6397573192167814705_o.jpg?oh=ca90d609c8dfe185d3e78b011220d2d7&amp;amp;oe=547DD618&amp;amp;__gda__=1417595371_64899904491bb19d178b9eb27a283ea4&quot; alt=&quot;image&quot; /&gt; &lt;img src=&quot;https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/v/t34.0-12/10358129_10152635670313401_1042086699207320737_n.jpg?oh=468a12b532c442dda7533c10e79fa1c3&amp;amp;oe=547DBE76&amp;amp;__gda__=1417523013_ef238ba1fce2d15ff53fc19d13391457&quot; alt=&quot;image&quot; /&gt;
+&lt;/center&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Tambine me gusta la natacion, manejo los 4 estilos clasicos y varios estilos de salvamento, estoy certificado como salvavidas por la cruz roja y la defenza civil.&lt;/p&gt;
+
+&lt;figure&gt; &lt;center&gt;
+	&lt;img src=&quot;https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/1919052_1409818130905_6908135_n.jpg?oh=5b7674adeec40ab65f1fa4eac6da401a&amp;amp;oe=55174592&amp;amp;__gda__=1427114381_9a95680e1e1ee09e5b9e784bbe785847&quot; alt=&quot;image&quot; /&gt; &lt;img src=&quot;https://scontent-a-atl.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/200422_10150118406630841_1210269_n.jpg?oh=ff8e300d003ac0aa8c83d1f69a3ded57&amp;amp;oe=550A062C&quot; alt=&quot;image&quot; /&gt;
+&lt;/center&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Tambien me gusta estudiar y asistir a cursos de primeros auxilios, soy primer respondiente y tengo certificados en APH (Atencion Pre Hospitalaria).  &lt;/p&gt;
+
+&lt;figure&gt; &lt;center&gt;
+	&lt;img src=&quot;https://scontent-a-atl.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/10398527_72552298400_4806329_n.jpg?oh=93ebe2cc2dba1955f40ebae840398980&amp;amp;oe=550F2891&quot; alt=&quot;image&quot; /&gt;
+&lt;/center&gt;
+&lt;/figure&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/articles/mis-pasatiempos/&quot;&gt;Pasatiempos&lt;/a&gt; was originally published by David Ricardo Trompa Muñoz at &lt;a href=&quot;&quot;&gt;Perfil De Hacker&lt;/a&gt; on June 22, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Conocimientos en Programacion]]></title>
+  <link rel="alternate" type="text/html" href="/articles/lenguajes-de-programacion/" />
+  <id>/articles/lenguajes-de-programacion</id>
+  <published>2014-06-21T00:00:00-05:00</published>
+  <updated>2014-06-21T00:00:00-05:00</updated>
+  <author>
+    <name>David Ricardo Trompa Muñoz</name>
+    <uri></uri>
+    <email>drtrompam@unal.edu.co</email>
+  </author>
+  <content type="html">&lt;p&gt;Actualmente manejo los siguientes lenguajes de programacion:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;C, C++&lt;/li&gt;
+  &lt;li&gt;Java&lt;/li&gt;
+  &lt;li&gt;Groovy&lt;/li&gt;
+  &lt;li&gt;Grails&lt;/li&gt;
+  &lt;li&gt;Android&lt;/li&gt;
+  &lt;li&gt;HTML&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;
+Y me gustaria actualemnte aprender:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;.Net&lt;/li&gt;
+  &lt;li&gt;Python&lt;/li&gt;
+  &lt;li&gt;Ajax&lt;/li&gt;
+&lt;/ul&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;/articles/lenguajes-de-programacion/&quot;&gt;Conocimientos en Programacion&lt;/a&gt; was originally published by David Ricardo Trompa Muñoz at &lt;a href=&quot;&quot;&gt;Perfil De Hacker&lt;/a&gt; on June 21, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Mis Participaciones]]></title>
+  <link rel="alternate" type="text/html" href="/articles/participaciones-en-eventos/" />
+  <id>/articles/participaciones-en-eventos</id>
+  <published>2014-06-20T00:00:00-05:00</published>
+  <updated>2014-06-20T00:00:00-05:00</updated>
+  <author>
+    <name>David Ricardo Trompa Muñoz</name>
+    <uri></uri>
+    <email>drtrompam@unal.edu.co</email>
+  </author>
+  <content type="html">&lt;p&gt;Hasta el momento solo he participado en eventos academicos en la &lt;a href=&quot;http://www.unal.edu.co&quot;&gt;Universidad Nacional De Colombia&lt;/a&gt; donde he sustentado varios proyectos para materias como Ingenieria De Software I, Ingenieria De Software II y Taller de Proyectos Interdisciplinarios.&lt;/p&gt;
+
+&lt;p&gt;Actualmente estoy trabajndo en un proyecto para la materia computacion visual el cual esta siendo desarrollado en processing.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;/articles/participaciones-en-eventos/&quot;&gt;Mis Participaciones&lt;/a&gt; was originally published by David Ricardo Trompa Muñoz at &lt;a href=&quot;&quot;&gt;Perfil De Hacker&lt;/a&gt; on June 20, 2014.&lt;/p&gt;</content>
+</entry>
+
+</feed>

@@ -1,0 +1,30 @@
+[
+	
+		{
+		  "title"      : "Pasatiempos",
+		  "category"   : "",
+      "tags"       : "",
+		  "url"        : "/articles/mis-pasatiempos/",
+		  "date"       : "2014-06-22 00:00:00 -0500",
+		  "shortdate"  : "June 22, 2014"
+		} ,
+	
+		{
+		  "title"      : "Conocimientos en Programacion",
+		  "category"   : "",
+      "tags"       : "",
+		  "url"        : "/articles/lenguajes-de-programacion/",
+		  "date"       : "2014-06-21 00:00:00 -0500",
+		  "shortdate"  : "June 21, 2014"
+		} ,
+	
+		{
+		  "title"      : "Mis Participaciones",
+		  "category"   : "",
+      "tags"       : "eventos, un, universidad-nacional, and proyecto",
+		  "url"        : "/articles/participaciones-en-eventos/",
+		  "date"       : "2014-06-20 00:00:00 -0500",
+		  "shortdate"  : "June 20, 2014"
+		} 
+	
+]
